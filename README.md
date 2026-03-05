@@ -32,3 +32,105 @@ Interested in building systems that protect public data, secure communications, 
 ---
 
 # Cybersecurity Focus
+
+---
+
+# Skills
+
+### Programming
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css"/>
+</p>
+
+### Cybersecurity Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,git,vscode"/>
+</p>
+
+### Security Tools
+
+---
+
+# Projects
+
+### WildGuard – Smart Wildlife Monitoring System
+
+IoT based monitoring system designed to reduce **human-animal conflict** by tracking wildlife movement and sending alerts.
+
+---
+
+### Deepfake Detection Dashboard
+
+AI-powered dashboard that analyzes media files to detect **manipulated or deepfake content**.
+
+---
+
+### Secure Chat UI
+
+Modern communication interface prototype exploring **secure messaging architecture and UI design**.
+
+---
+
+# Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,git,vscode,docker,python"/>
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+# Resume
+
+<p align="center">
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Download%20Resume-7A3CFF?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=felixroys2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/felix-royson-a-72894a374/">
+<img src="https://img.shields.io/badge/LinkedIn-Felix%20Royson-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7A3CFF&style=flat"/>
+</p>
