@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=7A3CFF&center=true&vCenter=true&width=900&lines=Felix+Roysom+A;Cybersecurity+Engineer;Secure+Systems+Developer;Defense+Technology+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=7A3CFF&center=true&vCenter=true&width=900&lines=Felix+Royson+A;Cybersecurity+Engineer;Secure+Systems+Developer;Defense+Technology+Enthusiast"/>
 </p>
 
 <h3 align="center">Cybersecurity | Secure Systems | Defense Tech</h3>
