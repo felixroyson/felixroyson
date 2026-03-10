@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=7A3CFF&center=true&vCenter=true&width=900&lines=Felix+Royson+A;Cybersecurity+Engineer;Secure+Systems+Developer;Defense+Technology+Enthusiast"/>
 </p>
 
-<h3 align="center">Cybersecurity | Secure Systems | Defense Tech</h3>
+<h3 align="center">Cybersecurity | Secure Systems | Defense Technology</h3>
 
 <p align="center">
 Computer Science Engineering student focused on cybersecurity, network security, and secure digital infrastructure.
@@ -24,32 +24,49 @@ Interested in building systems that protect public data, secure communications, 
 
 # About Me
 
-- Cybersecurity learner  
-- Interested in secure identity systems  
-- Exploring network security & web vulnerabilities  
-- Building practical security tools and dashboards  
+* Cybersecurity learner
+* Interested in secure identity systems
+* Exploring network security & web vulnerabilities
+* Building practical security tools and dashboards
 
 ---
 
 # Cybersecurity Focus
 
+* Network Security
+* Web Application Security
+* Secure System Architecture
+* Security Monitoring Systems
+
 ---
 
-# Skills
+# Skills & Tools
 
 ### Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css"/>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css&perline=8"/>
+
 </p>
 
-### Cybersecurity Tools
+### Development Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,vscode"/>
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker&perline=10"/>
+
 </p>
 
-### Security Tools
+---
+
+# Cybersecurity Toolkit
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,docker,vscode&perline=10"/>
+
+</p>
 
 ---
 
@@ -57,7 +74,7 @@ Interested in building systems that protect public data, secure communications, 
 
 ### WildGuard – Smart Wildlife Monitoring System
 
-IoT based monitoring system designed to reduce **human-animal conflict** by tracking wildlife movement and sending alerts.
+IoT-based monitoring system designed to reduce **human-animal conflict** by tracking wildlife movement and sending alerts.
 
 ---
 
@@ -76,7 +93,9 @@ Modern communication interface prototype exploring **secure messaging architectu
 # Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,vscode,docker,python"/>
+
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,docker,vscode&perline=10"/>
+
 </p>
 
 ---
@@ -96,7 +115,9 @@ Modern communication interface prototype exploring **secure messaging architectu
 # Contribution Activity
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -106,7 +127,9 @@ Modern communication interface prototype exploring **secure messaging architectu
 <p align="center">
 
 <a href="YOUR_RESUME_LINK">
+
 <img src="https://img.shields.io/badge/Download%20Resume-7A3CFF?style=for-the-badge&logo=readme&logoColor=white"/>
+
 </a>
 
 </p>
@@ -118,11 +141,15 @@ Modern communication interface prototype exploring **secure messaging architectu
 <p align="center">
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=felixroys2004@gmail.com">
+
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/felix-royson-a-72894a374/">
+
 <img src="https://img.shields.io/badge/LinkedIn-Felix%20Royson-blue?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
 </p>
@@ -132,5 +159,7 @@ Modern communication interface prototype exploring **secure messaging architectu
 # Profile Visitors
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7A3CFF&style=flat"/>
+
 </p>
