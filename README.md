@@ -1,28 +1,26 @@
-# <div align="center">Felix Royson A</div>
+# <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Felix%20Royson%20A&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Secure%20Systems%20Developer%20%7C%20Defense%20Technology%20Enthusiast&descAlignY=60"/>
+
+</div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=7A3CFF&center=true&vCenter=true&width=900&lines=Felix+Royson+A;Cybersecurity+Engineer;Secure+Systems+Developer;Defense+Technology+Enthusiast;Security+Researcher;Building+Secure+Digital+Infrastructure"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=SECURITY+OPERATIONS+CENTER+ONLINE;THREAT+MONITORING+ACTIVE;SECURE+SYSTEMS+UNDER+DEVELOPMENT;DEFENSE+TECHNOLOGY+RESEARCH;BUILDING+THE+FUTURE+OF+CYBERSECURITY"/>
 </p>
 
-<h3 align="center">Cybersecurity • Secure Systems • Defense Technology</h3>
-
 <p align="center">
-Building secure systems, cybersecurity solutions, and digital infrastructure for real-world security challenges.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Security%20Status-Active-7A3CFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System-Online-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Threat%20Monitoring-Enabled-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security_Status-ONLINE-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Threat_Monitoring-ACTIVE-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Projects-IN_DEVELOPMENT-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-CYBERSECURITY-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-# 💻 Terminal
+# 💻 WHOAMI
 
 ```bash
-> whoami
+$ whoami
 
 Felix Royson A
 
@@ -31,333 +29,301 @@ Secure Systems Developer
 Defense Technology Enthusiast
 
 Current Focus:
-- Network Security
-- Security Operations
-- Secure Architecture
-- Digital Forensics
+• Cybersecurity Engineering
+• Network Security
+• Secure Architecture
+• Security Operations
+• Digital Forensics
 
 Mission:
-Building technology that protects people,
-data, and critical infrastructure.
+Build secure systems that protect
+people, infrastructure, and data.
 ```
 
 ---
 
-# 🎯 Mission
+# 🎯 MISSION CONTROL
 
-My goal is to build secure systems that protect people, critical infrastructure, and digital identities.
-
-### Areas of Focus
+Designing and developing security-focused systems that solve real-world challenges in:
 
 * Cybersecurity
 * Security Operations
-* Secure Software Development
-* Network Security
-* AI Security
-* Digital Identity Systems
+* Secure Communications
+* Digital Identity
 * Defense Technology
+* AI Security
+* Critical Infrastructure Protection
 
 ---
 
-# 🛡 SOC Dashboard
+# 🛰 SECURITY OPERATIONS CENTER
 
-| Security Module     | Status       |
-| ------------------- | ------------ |
-| Security Research   | 🟢 Active    |
-| Threat Monitoring   | 🟢 Active    |
-| Secure Development  | 🟢 Active    |
-| Network Security    | 🟢 Active    |
-| Digital Forensics   | 🟡 Learning  |
-| Malware Analysis    | 🟡 Learning  |
-| Threat Hunting      | 🟡 Learning  |
-| Reverse Engineering | 🔵 Exploring |
+```text
+┌──────────────────────────────────────────────┐
+│ SECURITY COMMAND CENTER                      │
+├──────────────────────────────────────────────┤
+│ Network Security                ONLINE       │
+│ Security Research               ONLINE       │
+│ Secure Development              ONLINE       │
+│ Threat Monitoring               ONLINE       │
+│ Incident Analysis               ACTIVE       │
+│ Digital Forensics               LEARNING     │
+│ Malware Analysis                LEARNING     │
+│ Threat Hunting                  LEARNING     │
+└──────────────────────────────────────────────┘
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 ACTIVE OPERATIONS
 
-## 🔐 FASA – File Automation & Security Assistant
+## 🔐 FASA
 
-Security-focused platform that automates file operations while enforcing security controls.
+### File Automation & Security Assistant
 
-### Core Features
+Security-focused platform that automates file operations while enforcing security controls and activity monitoring.
 
-* Secure File Management
+#### Features
+
+* Secure File Handling
 * Activity Monitoring
-* User Access Control
+* Access Control
 * Threat Detection
+* Audit Logs
 * Security Alerts
-* Audit Logging
 
-**Status:** Active Development
+**Status:** 🟢 Active Development
 
 ---
 
-## 📱 Sentry
+## 🛡 SOC X
 
-Android security platform focused on improving user privacy and device security.
+Security Operations Center simulation platform designed for monitoring, detection, alerting, and incident visibility.
 
-### Core Features
+#### Features
 
-* Permission Analysis
-* Security Monitoring
-* Privacy Risk Detection
+* Security Monitoring Dashboard
+* Event Correlation
+* Alert Management
+* Incident Tracking
+* Threat Visibility
+
+**Status:** 🟢 Active Development
+
+---
+
+## 🐶 PUP
+
+### Personal Utility Protection Platform
+
+Personal cybersecurity utility suite designed to improve user security awareness and protection.
+
+#### Features
+
+* Security Utilities
+* Risk Detection
+* User Protection
 * Security Recommendations
 
-**Status:** Development
+**Status:** 🟢 Active Development
 
 ---
 
 ## 🐘 WildGuard
 
-IoT-based wildlife monitoring system designed to reduce human-animal conflict using intelligent tracking and alert systems.
+IoT-based wildlife monitoring ecosystem designed to reduce human-animal conflicts using intelligent tracking systems.
 
-### Core Features
+#### Features
 
-* Animal Tracking
-* Real-Time Monitoring
-* Forest Officer Dashboard
-* Alert Management
+* Wildlife Tracking
+* Smart Alerts
+* Monitoring Dashboard
+* Officer Management System
 
----
-
-## 🤖 Deepfake Detection Dashboard
-
-AI-powered platform for detecting manipulated media and deepfake content.
-
-### Core Features
-
-* Image Analysis
-* AI-Based Detection
-* Confidence Scoring
-* Interactive Dashboard
+**Status:** 🟢 Active Development
 
 ---
 
-# ⚔ Tech Arsenal
+## 📱 Sentry
 
-### Programming Languages
+Mobile security platform focused on privacy protection, device security analysis, and risk monitoring.
+
+#### Features
+
+* Privacy Analysis
+* Permission Auditing
+* Device Monitoring
+* Security Recommendations
+
+**Status:** 🟢 Active Development
+
+---
+
+## 🤖 Guardian Companion
+
+AI-powered intelligent security assistant designed to help users understand threats, risks, and security events.
+
+#### Features
+
+* Security Guidance
+* Threat Awareness
+* AI Assistance
+* Security Insights
+
+**Status:** 🟢 Active Development
+
+---
+
+# ⚔ TECH ARSENAL
+
+### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css&perline=8"/>
 </p>
 
-### Development & Infrastructure
+### Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,react,firebase,mysql&perline=10"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,react,firebase,mysql&perline=8"/>
 </p>
 
----
-
-# 🌍 Domains
-
-* 🔐 Cybersecurity
-* 🛡 Security Operations
-* 🌐 Network Security
-* ☁ Cloud Security
-* 📱 Mobile Security
-* 🤖 AI Security
-* 🏛 Digital Identity Systems
-* 🚀 Defense Technology
-
----
-
-# 📚 Currently Studying
-
-* Computer Networks
-* Operating Systems
-* DBMS
-* Cryptography
-* Digital Forensics
-* Security Monitoring
-* Threat Intelligence
-* Incident Response
-
----
-
-# 📈 Cybersecurity Roadmap
+### Security Stack
 
 ```text
-Network Security         ████████░░ 80%
-Linux                    ████████░░ 80%
-Python                   ███████░░░ 70%
-Web Security             ██████░░░░ 60%
-Digital Forensics        ███░░░░░░░ 30%
-Malware Analysis         ██░░░░░░░░ 20%
-Threat Hunting           ██░░░░░░░░ 20%
-Reverse Engineering      █░░░░░░░░░ 10%
+Network Security
+Web Security
+Linux Administration
+Security Monitoring
+Incident Response
+Digital Forensics
+Threat Intelligence
+Secure Architecture
 ```
 
 ---
 
-# 🎯 2026 Objectives
+# 📚 CURRENT LEARNING TRACK
 
+```text
+Computer Networks       █████████░ 90%
+Linux                   ████████░░ 80%
+Python                  ████████░░ 80%
+Web Security            ███████░░░ 70%
+Digital Forensics       ████░░░░░░ 40%
+SOC Operations          █████░░░░░ 50%
+Threat Hunting          ███░░░░░░░ 30%
+Malware Analysis        ██░░░░░░░░ 20%
+```
+
+---
+
+# 🎯 2026 OBJECTIVES
+
+* [ ] Build Production Version of FASA
+* [ ] Complete SOC X Platform
+* [ ] Complete PUP Platform
+* [ ] Complete Sentry Platform
+* [ ] Develop Guardian Companion
 * [ ] Master Computer Networks
 * [ ] Master Operating Systems
 * [ ] Learn Digital Forensics
-* [ ] Build Production-Ready FASA
-* [ ] Complete Sentry
-* [ ] Contribute to Open Source
-* [ ] Publish Security Research
-* [ ] Develop Advanced Security Projects
+* [ ] Contribute to Open Source Security Projects
 
 ---
 
-# 🏆 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Activity
+# 📈 CONTRIBUTION GRAPH
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏅 GitHub Trophies
+# 🏆 ACHIEVEMENTS
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 💡 Engineering Principles
+# 🧠 ENGINEERING PRINCIPLES
 
 * Security First
 * Build Before Consuming
 * Learn Through Projects
-* Automate Repetitive Tasks
 * Solve Real Problems
-* Document Everything
 * Continuous Improvement
+* Document Everything
+* Design For Reliability
 
 ---
 
-# 📅 Milestones
+# 🌍 LONG-TERM VISION
 
-### 2025
-
-* Started Cybersecurity Journey
-* Built WildGuard
-* Built Deepfake Detection Dashboard
-* Strengthened Core CSE Foundations
-
-### 2026
-
-* Built FASA
-* Started Sentry
-* Advanced Security Portfolio Development
-
-### Future
-
-* SOC Engineering
-* Security Research
-* Defense Technology Projects
-* Advanced Secure Systems Development
+Building secure systems that strengthen digital trust, protect infrastructure, and contribute to cybersecurity innovation and defense technology.
 
 ---
 
-# 🧠 Fun Facts
-
-⚡ Building cybersecurity projects from scratch
-
-⚡ Interested in defense technology
-
-⚡ Passionate about secure digital infrastructure
-
-⚡ Exploring AI-powered security systems
-
-⚡ Learning how large-scale secure systems operate
-
----
-
-# 💬 Daily Inspiration
+# 📡 LIVE VISITOR COUNTER
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📄 Resume
+# 🤝 CONNECT
 
 <p align="center">
 
-<a href="YOUR_RESUME_LINK">
-
-<img src="https://img.shields.io/badge/Download%20Resume-7A3CFF?style=for-the-badge&logo=readme&logoColor=white"/>
-
-</a>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=felixroys2004@gmail.com">
-
+<a href="mailto:felixroys2004@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/felix-royson-a-72894a374/">
-
 <img src="https://img.shields.io/badge/LinkedIn-Felix%20Royson-blue?style=for-the-badge&logo=linkedin"/>
-
 </a>
 
 </p>
 
 ---
 
-# 👀 Profile Visitors
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7A3CFF&style=for-the-badge"/>
-
-</p>
-
----
-
-<div align="center">
-
-### 🔐 Building Secure Systems • Protecting Digital Infrastructure • Exploring Defense Technology
-
-</div>
+### <div align="center">🔐 Building Secure Systems • Protecting Digital Infrastructure • Exploring Defense Technology</div>
