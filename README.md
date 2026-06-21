@@ -63,7 +63,7 @@ File Automation & Security Assistant
 
 Security Operations Center Simulation Platform
 
-### 📱 Sentry
+### 📱 S.H.I.E.L.D
 
 Mobile Security & Privacy Analysis Platform
 
@@ -84,7 +84,7 @@ AI-Powered Security Assistant
 ## ⚔ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,firebase,mysql,linux,git,github,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,react,supabase,mysql,linux,git,github,vscode,windows&perline=6"/>
 </p>
 
 ---
