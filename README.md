@@ -1,140 +1,145 @@
-# <div align="center">
+# 🔐 Felix Royson A
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Felix%20Royson%20A&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Secure%20Systems%20%7C%20Defense%20Technology&descAlignY=60"/>
+<div align="center">
 
-## 🔐 Cybersecurity Student | Secure Systems Developer | Defense Technology Enthusiast
+### Cybersecurity Student • Secure Systems Developer • Defense Technology Enthusiast
 
-### 🌐 Portfolio
+Building security-focused software, SOC simulations, privacy-preserving systems, and cyber-defense solutions.
 
-<a href="https://felix-royson-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-00C8FF?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/felix-royson-a-72894a374/">
-<img src="https://img.shields.io/badge/LinkedIn-Felix%20Royson-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/felixroyson">
-<img src="https://img.shields.io/badge/GitHub-felixroyson-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[Portfolio](https://felix-royson-portfolio.vercel.app) • [LinkedIn](https://www.linkedin.com/in/felix-royson-a-72894a374/) • [GitHub](https://github.com/felixroyson)
 
 </div>
 
 ---
 
-## 💻 About Me
+## 🧑‍💻 About Me
 
-```bash
-Name        : Felix Royson A
-Role        : Cybersecurity Student
-Focus       : Secure Systems & Cyber Defense
-Interests   : Network Security, Web Security,
-              Digital Identity, Defense Technology
+```yaml
+Name: Felix Royson A
+Education: M.Tech Computer Science & Engineering (Integrated)
+Institution: Erode Sengunthar Engineering College
+Location: Tamil Nadu, India
 
-Mission     : Build secure systems that protect
-              people, infrastructure, and data.
+Focus Areas:
+  - Cybersecurity
+  - Security Operations (SOC)
+  - Web Application Security
+  - Digital Identity
+  - Secure System Design
+  - Defense-Oriented Technology
+
+Current Goal:
+  Build practical cybersecurity solutions that
+  strengthen digital trust and infrastructure security.
 ```
 
 ---
 
-## 🚀 Featured Portfolio
+## 🚧 Currently Building
 
-🔗 https://felix-royson-portfolio.vercel.app/
+### 🛡 S.H.I.E.L.D.
 
-My portfolio showcases:
+Privacy-preserving Android cybersecurity framework focused on device monitoring, risk assessment, delegated access control, and secure repair workflows.
 
-* Cybersecurity Projects
-* Secure Systems Development
-* Security Research
-* Technical Skills
-* Certifications
-* Achievements
-* Resume & Contact Information
+### ⚔ SOC-X
 
----
+Security Operations Center simulation platform that ingests security events, generates alerts, and demonstrates SOC-style investigation workflows.
 
-## 🛡 Featured Projects
+### 🔐 F.A.S.A.
 
-### 🔐 FASA
-
-File Automation & Security Assistant
-
-### 🛡 SOC X
-
-Security Operations Center Simulation Platform
-
-### 📱 S.H.I.E.L.D
-
-Mobile Security & Privacy Analysis Platform
-
-### 🐶 PUP
-
-Personal Utility Protection Platform
+File Automation and Security Assistant for automated file analysis, metadata inspection, monitoring, and security-focused file management.
 
 ### 🐘 WildGuard
 
-IoT Wildlife Monitoring System
-
-### 🤖 Guardian Companion
-
-AI-Powered Security Assistant
+IoT-based wildlife monitoring system designed to reduce human-animal conflict through real-time tracking, environmental monitoring, and intelligent alerting.
 
 ---
 
-## ⚔ Tech Stack
+## 🛠 Technical Arsenal
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,react,supabase,mysql,linux,git,github,vscode,windows&perline=6"/>
-</p>
+### Security
+
+* Vulnerability Assessment
+* OWASP Top 10
+* Web Application Security
+* Security Testing
+* Security Monitoring
+* Threat Analysis
+
+### Networking
+
+* TCP/IP
+* Routing & Switching
+* DNS
+* HTTP / HTTPS
+* Network Fundamentals
+
+### Programming
+
+* Python
+* SQL
+* HTML
+* CSS
+* JavaScript
+
+### Platforms & Tools
+
+* Linux
+* Windows
+* Git
+* GitHub
+* Burp Suite
+* Wireshark
+* Nmap
+* Metasploit
+
+---
+
+## 📚 Currently Learning
+
+* Computer Networks
+* Operating Systems
+* Linux Administration
+* Digital Forensics
+* Threat Hunting
+* SOC Operations
+* Cloud Security
+* Network Security
+
+---
+
+## 🏆 Achievements
+
+* Best Innovative Idea Award — HACKZILLA 2K25 Hackathon
+* Finalist — BITSNBUILD 25 Hackathon
+* 2nd Prize — VYASA 2K26 Inter-College Event
+
+---
+
+## 📜 Certifications
+
+* Cybersecurity Fundamentals — Infosys Springboard
+* Introduction to Python — Infosys Springboard
+* Cybersecurity Professional Certification (Ongoing)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=felixroyson&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixroyson&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=felixroyson&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Current Learning
+## 🎯 Vision
 
-* Computer Networks
-* Operating Systems
-* Linux Administration
-* Web Security
-* SOC Operations
-* Digital Forensics
-* Threat Hunting
+To contribute to cybersecurity innovation through secure software systems, privacy-preserving technologies, and defense-oriented engineering solutions.
 
 ---
-
-## 🌍 Vision
-
-Building secure systems that strengthen digital trust, protect infrastructure, and contribute to cybersecurity innovation and defense technology.
-
----
-
-## 🤝 Connect
-
-📧 Email: [felixroys2004@gmail.com](mailto:felixroys2004@gmail.com)
-
-🌐 Portfolio: https://felix-royson-portfolio.vercel.app/
-
-💼 LinkedIn: https://www.linkedin.com/in/felix-royson-a-72894a374/
-
-🐙 GitHub: https://github.com/felixroyson
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 
 <div align="center">
 
-🔐 Building Secure Systems • Cyber Defense • Defense Technology
+"Security is not a feature. It is a design principle."
 
 </div>
