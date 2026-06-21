@@ -1,128 +1,179 @@
 # <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Felix%20Royson%20A&fontSize=55&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20•%20Software%20Engineering%20•%20Defense%20Technology&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,100:22c55e&text=Felix%20Royson%20A&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20Engineer%20in%20Training%20|%20Secure%20Systems%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=M.Tech+Computer+Science+Student;Building+Security-Focused+Applications;Exploring+Cybersecurity+%26+Digital+Defense;Turning+Ideas+Into+Practical+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Cybersecurity+Student;Secure+Systems+Developer;SOC+and+Threat+Analysis+Enthusiast;Building+S.H.I.E.L.D.+and+SOC+X;Exploring+Defense+Technology"/>
 
-<br>
+### Building Secure Systems • Security Automation • Defense Technology
 
+<p align="center">
 <a href="https://felix-royson-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Now-00C8FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/felix-royson-a-72894a374/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/felixroyson">
+<img src="https://img.shields.io/github/followers/felixroyson?style=for-the-badge"/>
 </a>
 
 <a href="mailto:felixroys2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge"/>
 </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About
+# 🧑‍💻 About Me
 
 ```yaml
 Name: Felix Royson A
 Education: M.Tech Computer Science & Engineering
-Institution: Erode Sengunthar Engineering College
-
-Focus Areas:
+College: Erode Sengunthar Engineering College
+Focus:
   - Cybersecurity
-  - Software Engineering
-  - Network Security
+  - Secure Software Development
   - Security Operations
+  - Digital Identity Protection
+
+Currently Learning:
+  - Computer Networks
+  - Operating Systems
+  - Threat Hunting
   - Digital Forensics
+  - SOC Workflows
 
 Goal:
-  Building practical systems that solve real-world
-  security and operational challenges.
+  Build secure technologies that improve
+  digital trust and cyber resilience.
 ```
 
 ---
 
-## 🚧 Currently Building
+# 🚀 Flagship Projects
 
-### 🛡 S.H.I.E.L.D
+## 🛡 SOC X
 
-Privacy and device security analysis platform focused on risk assessment, monitoring, and trusted handover workflows.
+Security Operations Center simulation platform designed to replicate real-world security monitoring environments.
 
-### 🔍 SOC-X
+### Core Features
 
-Security operations simulation environment for log monitoring, alert correlation, incident analysis, and response workflows.
-
-### 🔐 FASA
-
-File Automation & Security Assistant for intelligent file organization, metadata analysis, and storage monitoring.
-
-### 🐘 WildGuard
-
-IoT-enabled wildlife monitoring system designed to reduce human-animal conflicts through real-time tracking and alerts.
+* Event monitoring dashboard
+* Security alert generation
+* Vulnerability assessment workflow
+* Security incident response simulation
+* SOC-style analytics
 
 ---
 
-## ⚙️ Tech Arsenal
+## 📱 S.H.I.E.L.D
+
+Smart Hybrid Intelligence Engine for Local Device Security
+
+A privacy-focused Android security platform designed to analyze device trust, monitor risk indicators, and improve mobile security awareness.
+
+### Focus Areas
+
+* Device Risk Assessment
+* Privacy Monitoring
+* Security Analytics
+* Trusted Handover Validation
+* Secure Device Lifecycle
+
+---
+
+## 🔐 FASA
+
+File Automation & Security Assistant
+
+A desktop security utility that automates file management while providing file metadata analysis and security insights.
+
+### Features
+
+* File categorization
+* Metadata analysis
+* Storage monitoring
+* Automated organization
+* Security-oriented file management
+
+---
+
+## 🐘 WildGuard
+
+IoT-based wildlife monitoring system designed to reduce human-animal conflict through real-time tracking and alerting.
+
+### Features
+
+* GPS-based animal tracking
+* Environmental monitoring
+* Real-time alerts
+* Wildlife movement analytics
+* Forest officer dashboard
+
+---
+
+## 🐶 PUP
+
+Personal Utility Protection Platform
+
+Security awareness and attack-simulation platform helping users understand vulnerabilities through controlled demonstrations.
+
+---
+
+# ⚔ Technology Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,supabase,mysql,linux,git,github,vscode,windows&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,react,html,css,mysql,supabase,linux,git,github,vscode,windows&perline=6"/>
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=felixroyson&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=felixroyson&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixroyson&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixroyson&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=felixroyson&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=felixroyson&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📚 Learning Journey
-
-* Computer Networks
-* Operating Systems
-* Linux Administration
-* Security Monitoring
-* Threat Detection
-* Digital Forensics
-* Secure Software Development
-
----
-
-## 🏆 Highlights
+# 🏆 Achievements
 
 * Best Innovative Idea Award — HACKZILLA 2K25
-* YASA 2K26 Event Runner-Up
-* BITNBUILD 25 State-Level Finalist
+* Finalist — BITSBuild'25 Hackathon
+* 2nd Prize — VYASA 2K26 Event
 
 ---
 
-## 🌐 Connect
+# 📚 Certifications
 
-Portfolio → https://felix-royson-portfolio.vercel.app
-
-LinkedIn → https://www.linkedin.com/in/felix-royson-a-72894a374
-
-GitHub → https://github.com/felixroyson
-
-Email → [felixroys2004@gmail.com](mailto:felixroys2004@gmail.com)
+* Cybersecurity — Infosys Springboard
+* Introduction to Python — Infosys Springboard
+* Cybersecurity Professional Certification (Ongoing)
 
 ---
 
-<div align="center">
+# 🌍 Long-Term Vision
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+Develop security-focused platforms, intelligent monitoring systems, and defense-oriented technologies that improve cyber resilience and digital trust.
 
-</div>
+---
+
+# 🤝 Connect
+
+📧 Email: [felixroys2004@gmail.com](mailto:felixroys2004@gmail.com)
+
+🌐 Portfolio: https://felix-royson-portfolio.vercel.app
+
+💼 LinkedIn: linkedin.com/in/felix-royson-a-72894a374
+
+🐙 GitHub: github.com/felixroyson
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:22c55e"/>
