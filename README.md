@@ -1,95 +1,39 @@
-# Felix Royson A
+# FELIX ROYSON A
 
-### Cybersecurity | Cloud Security | Security Research
+### SECURITY ENGINEERING · CLOUD · RESEARCH
 
-Integrated M.Tech Computer Science & Engineering student focused on
-building secure systems, cybersecurity tools, and cloud security solutions.
-
----
-
-## About Me
-
-- 🔐 Interested in Cybersecurity, Cloud Security & Secure Systems
-- 🛡️ Building security-focused applications and research projects
-- ☁️ Currently developing skills in AWS, Linux, Networking & DevSecOps
-- 🧪 Exploring Security Operations, Threat Detection & Incident Response
-- 📚 Strengthening fundamentals in OS, Computer Networks, DSA & Security
+> Building secure systems, investigating how they fail,
+> and engineering them to fail safely.
 
 ---
 
-## Technical Skills
+## `SYSTEM STATUS`
 
-### Programming
-Python · JavaScript · SQL · Bash
-
-### Cybersecurity
-Linux · Nmap · Wireshark · Burp Suite · Web Security · Network Security
-
-### Development
-React · Node.js · Flutter · REST APIs
-
-### Cloud & DevOps
-AWS · Docker · Git · GitHub
-
-### Security Operations
-SIEM · Log Analysis · Alert Triage · Incident Response · MITRE ATT&CK
+| Domain | Status |
+|---|---|
+| Cybersecurity | `ACTIVE` |
+| Linux & Networking | `ACTIVE` |
+| Security Operations | `ACTIVE` |
+| Cloud Security | `BUILDING` |
+| DevSecOps | `BUILDING` |
+| Security Research | `ACTIVE` |
 
 ---
 
-## Featured Projects
+## `CURRENT MISSION`
 
-### S.H.I.E.L.D
-Secure application framework focused on protecting sensitive data,
-secure handovers, encryption and access control.
+I'm an Integrated M.Tech Computer Science & Engineering student
+focused on **cybersecurity, cloud security and secure systems**.
 
-**Tech:** Android · Security · Encryption · Local Storage
-
-### SOC-X
-Security Operations dashboard designed for monitoring security events,
-analysing logs and supporting incident investigation.
-
-**Tech:** Python · SIEM · Security Analytics
-
-### Guardian Companion
-Cross-platform safety and emergency assistance platform with
-location tracking, emergency contacts and secure data handling.
-
-**Tech:** React · Supabase · Leaflet · JavaScript
-
-### FASA
-Security research and development project focused on secure systems
-and cybersecurity applications.
-
----
-
-## Research
-
-**Zero-Trust Physical Handovers: A Low-Latency Android DPC Framework
-for Mitigating Unintended Data Exposure**
-
-Presented at **ICCCIoT 2026**
-
-Research interests:
-- Zero Trust Architecture
-- Mobile Device Security
-- Data Protection
-- Secure Communication
-
----
-
-## Current Focus
+My approach is simple:
 
 ```text
-Cybersecurity
-     ↓
-Linux & Networking
-     ↓
-Cloud Security
-     ↓
-AWS
-     ↓
-Docker & Kubernetes
-     ↓
-DevSecOps
-     ↓
-Security Engineering
+UNDERSTAND THE SYSTEM
+        ↓
+UNDERSTAND THE ATTACK SURFACE
+        ↓
+BUILD THE DEFENSE
+        ↓
+TEST THE FAILURE
+        ↓
+IMPROVE THE SYSTEM
