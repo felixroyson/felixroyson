@@ -1,47 +1,95 @@
-
-# Hey, I'm Felix Royson A 👋
+# Felix Royson A
 
 ### Cybersecurity | Cloud Security | Security Research
 
-🎓 Integrated M.Tech — Computer Science & Engineering
+Integrated M.Tech Computer Science & Engineering student focused on
+building secure systems, cybersecurity tools, and cloud security solutions.
 
-🔐 Interested in Cyber Defense, Network Security
-and Cloud Security
+---
 
-🛡️ Building security-focused applications and tools
+## About Me
 
-☁️ Learning AWS, Docker, Kubernetes and DevSecOps
+- 🔐 Interested in Cybersecurity, Cloud Security & Secure Systems
+- 🛡️ Building security-focused applications and research projects
+- ☁️ Currently developing skills in AWS, Linux, Networking & DevSecOps
+- 🧪 Exploring Security Operations, Threat Detection & Incident Response
+- 📚 Strengthening fundamentals in OS, Computer Networks, DSA & Security
 
-## 🛠️ Technical Skills
+---
 
-**Languages:** Python, JavaScript, SQL, Bash
+## Technical Skills
 
-**Security:** Nmap, Wireshark, Burp Suite, Linux
+### Programming
+Python · JavaScript · SQL · Bash
 
-**Development:** React, Flutter, Node.js
+### Cybersecurity
+Linux · Nmap · Wireshark · Burp Suite · Web Security · Network Security
 
-**Cloud & DevOps:** AWS, Docker, Git
+### Development
+React · Node.js · Flutter · REST APIs
 
-## 🚀 Featured Projects
+### Cloud & DevOps
+AWS · Docker · Git · GitHub
+
+### Security Operations
+SIEM · Log Analysis · Alert Triage · Incident Response · MITRE ATT&CK
+
+---
+
+## Featured Projects
 
 ### S.H.I.E.L.D
-Secure data handover and privacy protection framework.
+Secure application framework focused on protecting sensitive data,
+secure handovers, encryption and access control.
 
-### Guardian Companion
-Safety monitoring and emergency assistance platform.
+**Tech:** Android · Security · Encryption · Local Storage
 
 ### SOC-X
-Security monitoring and incident analysis dashboard.
+Security Operations dashboard designed for monitoring security events,
+analysing logs and supporting incident investigation.
 
-## 🎯 Current Focus
+**Tech:** Python · SIEM · Security Analytics
 
-- Cloud Security Engineering
-- Security Operations and Incident Response
-- Linux and Computer Networking
-- Secure Application Development
+### Guardian Companion
+Cross-platform safety and emergency assistance platform with
+location tracking, emergency contacts and secure data handling.
 
-## 📫 Connect With Me
+**Tech:** React · Supabase · Leaflet · JavaScript
 
-LinkedIn: Add your profile URL
+### FASA
+Security research and development project focused on secure systems
+and cybersecurity applications.
 
-Portfolio: Add your portfolio URL
+---
+
+## Research
+
+**Zero-Trust Physical Handovers: A Low-Latency Android DPC Framework
+for Mitigating Unintended Data Exposure**
+
+Presented at **ICCCIoT 2026**
+
+Research interests:
+- Zero Trust Architecture
+- Mobile Device Security
+- Data Protection
+- Secure Communication
+
+---
+
+## Current Focus
+
+```text
+Cybersecurity
+     ↓
+Linux & Networking
+     ↓
+Cloud Security
+     ↓
+AWS
+     ↓
+Docker & Kubernetes
+     ↓
+DevSecOps
+     ↓
+Security Engineering
